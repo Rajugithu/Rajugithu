@@ -41,4 +41,4 @@ fyp/: Files and configurations for the Final Year Project.
 Feel free to reach out with questions or collaboration ideas!
 
 GitHub: Mujahidraja
-Email: your.email@example.com
+Email: mujahidr319@gmail.com
